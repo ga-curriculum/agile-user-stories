@@ -273,7 +273,7 @@ User stories are always structured in the same way:
 
 "As a (blank), I want (blank) so that (blank)."
 
-![agile](./images/ac.png)
+![agile](./images/user-story.png)
 
 Let’s explore each part of a user story.
 
@@ -364,7 +364,7 @@ There are two ways to write acceptance criteria:
 
 "Given that [context on the user], when [event happens or action is taken], then [outcome]."
 
-![agile](./images/user-story.png)
+![agile](./images/ac.png)
 
 Here's what that looks like in action:
 
